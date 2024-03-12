@@ -43,3 +43,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br/>
 <br/>
+
+### 📊 Github Stats
+
+![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SnowFusx&show_icons=true&theme=tokyonight)
