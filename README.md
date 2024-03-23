@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Martin Fusalario!
 <a href='https://www.linkedin.com/in/martin-fusalario'><img align='left' alt="linkedin" src="https://melbins.com/wp-content/uploads/icons/linkedin.svg" height='18px'/></a>
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I am a versatilist and easily adapt to different hats (Frontend Web Developer 🌐). I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
 
