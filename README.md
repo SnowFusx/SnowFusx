@@ -10,7 +10,6 @@ I am a versatilist and easily adapt to different hats (Frontend Web Developer �
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **construction-tools-manager**
-- 🌱 &nbsp; I’m currently learning Typescript; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/SnowFusx)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/martin-fusalario/)
